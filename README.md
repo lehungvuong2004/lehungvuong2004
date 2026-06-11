@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full-Stack Developer (ReactJS & Laravel) from Vietnam</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lehungvuong2004" alt="lehungvuong2004" /></a> </p>
-
 - 🔭 I’m currently working on [Gia Đình Việt - Home Service Platform (Graduation Thesis)](https://github.com/lehungvuong2004/LuanVanTotNghiep)
 
 - 🌱 I’m currently learning **Microservices, Docker, System Design, JWT Authentication, GSAP Animation**
