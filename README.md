@@ -1,49 +1,34 @@
-# Hi there 👋 I'm Lê Hùng Vương
+<h1 align="center">Hi 👋, I'm Lê Hùng Vương</h1>
+<h3 align="center">A passionate Full-Stack Developer (ReactJS & Laravel) from Vietnam</h3>
 
-🚀 Front-End Developer | ReactJS Developer  
-🎓 Final-year Information Technology Student (STU26)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lehungvuong2004&label=Profile%20views&color=0e75b6&style=flat" alt="lehungvuong2004" /> </p>
 
-I’m passionate about building modern web applications with clean UI/UX and scalable architectures.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lehungvuong2004" alt="lehungvuong2004" /></a> </p>
 
-## 👨‍💻 About Me
+- 🔭 I’m currently working on [Gia Đình Việt - Home Service Platform (Graduation Thesis)](https://github.com/lehungvuong2004/LuanVanTotNghiep)
 
-- 🎓 Graduation Thesis:  
-  **"Building a Home Service Connection Platform Based on Booking & Job Board Model"**
+- 🌱 I’m currently learning **Microservices, Docker, System Design, JWT Authentication, GSAP Animation**
 
-- 🧩 Architecture: **Microservice**
-- ⚡ Front-end: **ReactJS, TypeScript, TailwindCSS, GSAP**
-- 🔥 Back-end: **Laravel, RESTful API, JWT Authentication**
-- 🐳 DevOps: **Docker, Docker Compose**
-- 🗄️ Database: **MySQL**
+- 👯 I’m looking to collaborate on **ReactJS & Laravel Microservice Projects**
 
-## 🚀 Tech Stack
+- 🤝 I’m looking for help with **Microservice Architecture & System Design**
 
-### Front-End
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 👨‍💻 All of my projects are available at [https://vuongdevportfolio.vercel.app/](https://vuongdevportfolio.vercel.app/)
 
-### Back-End
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- 📝 I regularly write articles on [Currently focusing on building real-world projects and improving my development skills.](Currently focusing on building real-world projects and improving my development skills.)
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 💬 Ask me about **ReactJS, TailwindCSS, TypeScript, GSAP, Laravel API, Microservice Architecture, Yup, Formik, Redux/ReduToolkit**
 
-## 📌 Current Focus
+- 📫 How to reach me **hungvuong04.dev@gmail.com**
 
-- 🌱 Learning **Microservices Architecture**
-- ⚛️ Improving **ReactJS Performance & Animation (GSAP)**
-- 🔐 Authentication with **JWT Access Token & Refresh Token**
-- 🐳 Deploying services using **Docker**
+- ⚡ Fun fact **I love building scalable web applications with ReactJS & PHP Laravel**
 
-## 📫 Connect With Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/lehungvuong2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lehungvuong2004" height="30" width="40" /></a>
+</p>
 
-- 📧 Email: lehungvuong2004@gmail.com
-- 💼 GitHub: [@lehungvuong2004](https://github.com/lehungvuong2004)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
-
-⭐ *Always learning, always building.*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lehungvuong2004&show_icons=true&locale=en" alt="lehungvuong2004" /></p>
