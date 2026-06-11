@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lê Hùng Vương</h1>
 <h3 align="center">A passionate Full-Stack Developer (ReactJS & Laravel) from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lehungvuong2004&label=Profile%20views&color=0e75b6&style=flat" alt="lehungvuong2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lehungvuong2004" alt="lehungvuong2004" /></a> </p>
 
